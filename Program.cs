@@ -11,7 +11,7 @@ namespace vjezba_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Novo");
+            Console.WriteLine("Novonersto drugo je ovjde no conflict pls");
         }
     }
 }
